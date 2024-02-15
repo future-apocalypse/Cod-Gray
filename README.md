@@ -1,2 +1,2 @@
-# Cod Gray
- Cod Gray is a Theme for Chromium based browsers.
+# Cod Grey
+ Cod Grey is a theme for Chromium based browsers.
