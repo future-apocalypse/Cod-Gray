@@ -1,0 +1,45 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Cod Grey",
+     
+    "icons": {
+         "//Comment": "Icons",
+
+        "16": "images/CodGrey_16x16.png",
+        "48": "images/CodGrey_48x48.png",
+        "128": "images/CodGrey_128x128.png"
+	},
+    
+    "theme": {
+      "images" : {
+        "//Comment": "Background Image.",
+
+       "theme_ntp_background" : "images/theme_ntp_background.png"
+      },
+      "colors" : {
+        "//Comment" : "Colors of the UI in RGB format.",
+
+        "frame" : [16, 16, 16],
+        "frame_inactive": [34, 34, 37],
+        "toolbar" : [16, 16, 16],
+        "ntp_text" : [245, 245, 245],
+        "ntp_link" : [29, 29, 31],
+        "ntp_section" : [16, 16, 16],
+        "tab_text": [245, 245, 245],
+			  "tab_background_text": [189, 193, 198],
+        "tab_background_text_inactive": [168, 171, 175],
+        "bookmark_text": [245, 245, 245],
+        "button_background" : [34, 34, 37],
+        "omnibox_background": [34, 34, 37],
+			  "omnibox_text": [245, 245, 245]
+      },
+      "tints" : {
+        "buttons" : [-1, -1, 0.96]
+      },
+      "properties" : {
+        "ntp_background_alignment" : "bottom",
+        "ntp_background_repeat":"no-repeat"
+      }
+    }
+  }
