@@ -5,7 +5,7 @@
 
 ### Tested on:
 
-<h2 align="center">
+<h2
 &nbsp; [**Google Chrome**](https://www.google.com/chrome/)
 &nbsp; &nbsp; 
 [**Microsoft Edge**](https://www.microsoft.com/en-us/edge)
