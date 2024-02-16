@@ -5,13 +5,12 @@
 
 ### Tested on:
 
-<h2
+
 &nbsp; [**Google Chrome**](https://www.google.com/chrome/)
 &nbsp; &nbsp; 
 [**Microsoft Edge**](https://www.microsoft.com/en-us/edge)
 &nbsp; &nbsp; 
 [**Brave**](https://brave.com/)
-</h2>
 
 
 
