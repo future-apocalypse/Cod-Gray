@@ -3,6 +3,8 @@
 
 <p align="center"><strong>Cod Grey<strong> is a theme for <strong>Chromium<strong> based browsers.</p>
 
+### Tested on:
+
 <h2 align="center">
 &nbsp; [**Google Chrome**](https://www.google.com/chrome/)
 &nbsp; &nbsp; 
