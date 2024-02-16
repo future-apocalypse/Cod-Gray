@@ -8,7 +8,7 @@
 &nbsp; &nbsp; |[**Brave**](https://brave.com/)|
 
 
-[![Chrome Web Store](https://github.com/future-apocalypse/Cod-Grey/blob/main/ChromeWebStore.png)](https://chromewebstore.google.com/)
+<p align="center"> [![Chrome Web Store](https://github.com/future-apocalypse/Cod-Grey/blob/main/ChromeWebStore.png)](https://chromewebstore.google.com/) </p>
 
 ## Explore
 Feel free to check me out! :)
