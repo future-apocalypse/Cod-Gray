@@ -34,8 +34,7 @@
   "omnibox_background": [34, 34, 37],
   "omnibox_text": [245, 245, 245],
   "popup": [28, 28, 28],
-  "popup_text": [245, 245, 245],
-  "tab_loading": [44, 44, 44]
+  "popup_text": [245, 245, 245]
   
 },
     "tints" : {
