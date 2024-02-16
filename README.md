@@ -9,7 +9,7 @@
 
 
 <p align="center">
-[![Chrome Web Store](https://github.com/future-apocalypse/Cod-Grey/blob/main/ChromeWebStore.png)](https://chromewebstore.google.com/)
+<a href="https://chromewebstore.google.com"><img src="https://github.com/future-apocalypse/Cod-Grey/blob/main/ChromeWebStore.png"
 </p>
 
 ## Explore
