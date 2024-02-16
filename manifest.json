@@ -2,21 +2,18 @@
   "manifest_version": 3,
   "version": "1.0",
   "name": "Cod Grey",
-   
+  "description": "Cod Grey is a theme for Chromium based browsers.",
+  
   "icons": {
        
-
       "16": "images/CodGrey_16x16.png",
       "48": "images/CodGrey_48x48.png",
       "128": "images/CodGrey_128x128.png"
 },
   
   "theme": {
-    "images" : {
-      
+    "images" : {},
 
-     "theme_ntp_background" : "images/theme_ntp_background.png"
-    },
 "colors": {
   
   "frame": [16, 16, 16],
@@ -27,6 +24,7 @@
   "ntp_text":  [245, 245, 245],
   "ntp_link": [29, 29, 31],
   "ntp_section": [16, 16, 16],
+  "ntp_background": [16, 16, 16],
   "background_tab": [34, 34, 37],
   "background_tab_inactive": [16, 16, 16],
   "tab_text": [245, 245, 245],
@@ -39,15 +37,13 @@
   "omnibox_text": [245, 245, 245],
   "popup": [28, 28, 28],
   "popup_text": [245, 245, 245],
-  "tab_loading": [162, 119, 255]
+  "tab_loading": [44, 44, 44]
   
 },
     "tints" : {
       "buttons" : [-1, -1, 0.96]
-    },
-    "properties" : {
-      "ntp_background_alignment" : "bottom",
-      "ntp_background_repeat":"no-repeat"
     }
+    
   }
+  
 }
