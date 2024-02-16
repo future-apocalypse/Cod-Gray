@@ -8,9 +8,8 @@
 
 
 
-<p align=center> [![Download](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/tbyBjqi7Zu733AAKA5n4.png)](https://chromewebstore.google.com/)</p>
+<p align=center> [![Download](https://github.com/future-apocalypse/Cod-Grey/blob/main/ChromeWebStore.png)</p>
 
-[![Frame]()]
 
 ## Explore
 Feel free to check me out! :)
