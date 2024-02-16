@@ -1,7 +1,7 @@
 # Cod Grey
  >Cod Grey is a theme for Chromium based browsers.
 
-- Tested on:&emsp;|[**Google Chrome**](https://www.google.com/chrome/)| 
+- Tested on: &nbsp; |[**Google Chrome**](https://www.google.com/chrome/)| 
 &nbsp; &nbsp;  |[**Microsoft Edge**](https://www.microsoft.com/en-us/edge)|
 &nbsp; &nbsp; |[**Brave**](https://brave.com/)|
 
