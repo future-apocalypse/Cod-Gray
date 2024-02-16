@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://chromewebstore.google.com"><img src="https://github.com/future-apocalypse/Cod-Grey/blob/main/ChromeWebStore.png"
 </p>
-#
+
 ## Explore
 Feel free to check me out! :)
 
