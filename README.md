@@ -3,10 +3,12 @@
 
 <p align="center"><strong>Cod Grey<strong> is a theme for <strong>Chromium<strong> based browsers.</p>
 
+
 <p align="center"> &nbsp; [**Google Chrome**](https://www.google.com/chrome/)
 &nbsp; &nbsp;  [**Microsoft Edge**](https://www.microsoft.com/en-us/edge)
 &nbsp; &nbsp; [**Brave**](https://brave.com/)
 </p>
+
 
 
 <p align="center">
