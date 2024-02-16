@@ -1,15 +1,14 @@
-# Cod Grey
- >Cod Grey is a theme for Chromium based browsers.
 <img width=100% src="https://github.com/future-apocalypse/Cod-Grey/blob/main/Header.png"/>
+
+
+<p align="center"><strong>Cod Grey<strong> is a theme for <strong>Chromium<strong> based browsers.</p>
 
 - Tested on: &nbsp; |[**Google Chrome**](https://www.google.com/chrome/)| 
 &nbsp; &nbsp;  |[**Microsoft Edge**](https://www.microsoft.com/en-us/edge)|
 &nbsp; &nbsp; |[**Brave**](https://brave.com/)|
 
 
-
-<p align=center> [![Download](https://github.com/future-apocalypse/Cod-Grey/blob/main/ChromeWebStore.png)</p>
-
+<p align=center> [![Chrome Web Store](https://github.com/future-apocalypse/Cod-Grey/blob/main/ChromeWebStore.png)](https://chromewebstore.google.com/)</p>
 
 ## Explore
 Feel free to check me out! :)
