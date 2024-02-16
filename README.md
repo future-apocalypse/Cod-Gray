@@ -8,7 +8,7 @@
 &nbsp; &nbsp;  [**Microsoft Edge**](https://www.microsoft.com/en-us/edge)
 &nbsp; &nbsp; [**Brave**](https://brave.com/)
 </p>
-#
+
 
 <p align="center">
 <a href="https://chromewebstore.google.com"><img src="https://github.com/future-apocalypse/Cod-Grey/blob/main/ChromeWebStore.png"
