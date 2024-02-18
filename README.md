@@ -31,19 +31,19 @@
     <td>Chinese Black</td>
     <td>#101010</td>
     <td>16,16,16</td>
-    <td><img width=30% src="https://github.com/future-apocalypse/Cod-Grey/blob/main/extra/HEX101010.png" /></td>
+    <td><img width=50% src="https://github.com/future-apocalypse/Cod-Grey/blob/main/extra/HEX101010.png" /></td>
   </tr>
   <tr>
     <td>Raisin Black</td>
     <td>#222225</td>
     <td>34,34,37</td>
-    <td><img width=30% src="https://github.com/future-apocalypse/Cod-Grey/blob/main/extra/HEX222225.png" /></td>
+    <td><img width=50% src="https://github.com/future-apocalypse/Cod-Grey/blob/main/extra/HEX222225.png" /></td>
   </tr>
   <tr>
     <td>Cultured</td>
     <td>#F5F5F5</td>
     <td>245,245,245</td>
-    <td><img width=30% src="https://github.com/future-apocalypse/Cod-Grey/blob/main/extra/HEXF5F5F5.png" /></td>
+    <td><img width=50% src="https://github.com/future-apocalypse/Cod-Grey/blob/main/extra/HEXF5F5F5.png" /></td>
   </tr>
 </table>
 
