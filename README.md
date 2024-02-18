@@ -18,6 +18,11 @@
 <a href="https://chromewebstore.google.com"><img src="https://github.com/future-apocalypse/Cod-Grey/blob/main/ChromeWebStore.png"
 </p>
 
+
+## Color-palette
+- #101010 rgb(16,16,16) <img width=100% src="https://github.com/future-apocalypse/Cod-Grey/blob/main/extra/HEX101010.png"/>
+
+
 ## Why?
 Because i wanted an alternative to the official Google Chrome dark theme.
 
