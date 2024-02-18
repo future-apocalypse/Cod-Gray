@@ -20,7 +20,7 @@
 
 
 ## Color-palette
-- #101010 rgb(16,16,16) <img width=100% src="https://github.com/future-apocalypse/Cod-Grey/blob/main/extra/HEX101010.png"/>
+- #101010 rgb(16,16,16) <img width=5% src="https://github.com/future-apocalypse/Cod-Grey/blob/main/extra/HEX101010.png"/>
 
 
 ## Why?
