@@ -20,11 +20,11 @@
 
 
 ## Color-palette
-- #101010 rgb(16,16,16) <img width=2% src="https://github.com/future-apocalypse/Cod-Grey/blob/main/extra/HEX101010.png"/>
+- <img width=3% src="https://github.com/future-apocalypse/Cod-Grey/blob/main/extra/HEX101010.png"/> | #101010 | rgb(16,16,16) 
 
-- #222225 rgb(34,34,37) <img width=2% src="https://github.com/future-apocalypse/Cod-Grey/blob/main/extra/HEX222225.png"/>
+- <img width=3% src="https://github.com/future-apocalypse/Cod-Grey/blob/main/extra/HEX222225.png"/> | #222225 | rgb(34,34,37) 
 
-- #F5F5F5 rgb(245,245,245) <img width=2% src="https://github.com/future-apocalypse/Cod-Grey/blob/main/extra/HEXF5F5F5.png"/>
+- <img width=3% src="https://github.com/future-apocalypse/Cod-Grey/blob/main/extra/HEXF5F5F5.png"/> | #F5F5F5 | rgb(245,245,245) 
 
 
 ## Why?
